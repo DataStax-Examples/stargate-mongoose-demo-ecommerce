@@ -1,0 +1,12 @@
+{
+  "name": "netlify ecommerce sample demonstrates using stargate-mongoose, JSON API, AstraDB to build an ecommerce shopping cart",
+  "description": "This sample app demonstrates a ecommerce site by using  stargate-mongoose, JSON API and AstraDB",
+  "duration": "30 min",
+  "skillLevel": "Beginner",
+  "githubUrl": "https://github.com/DataStax-Examples/stargate-mongoose-demo-ecommerce",
+  "gitpodUrl": "https://gitpod.io/#https://github.com/DataStax-Examples/stargate-mongoose-demo-ecommerce",
+  "tags": [{ "name": "javascript" }, { "name": "stargate-mongoose" }, { "name": "json-api" }],
+  "category": "apps",
+  "priority": 1,
+  "heroImage": "https://raw.githubusercontent.com/DataStax-Examples/stargate-mongoose-demo-ecommerce/master/img/splash.png"
+}
